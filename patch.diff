@@ -1,0 +1,22 @@
+From 4e0c43508ff9d5e3fc02bdede65b69e801e2e6c6 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=E3=81=A4=E3=81=AE=E3=81=AF=E3=81=AD=E3=81=82=E3=81=8B?=
+ =?UTF-8?q?=E3=81=8E?= <tmn.k@activ8.co.jp>
+Date: Tue, 26 Jun 2018 19:55:15 +0900
+Subject: [PATCH] test2
+
+---
+ ii.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/ii.txt b/ii.txt
+index 3289f37..d9266e0 100644
+--- a/ii.txt
++++ b/ii.txt
+@@ -1 +1,2 @@
+-kmkm
+\ No newline at end of file
++kmkm
++ooo9
+-- 
+2.17.1.windows.2
+
